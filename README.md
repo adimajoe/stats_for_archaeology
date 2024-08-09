@@ -1,5 +1,7 @@
 # stats_for_archaeology
-IISER-Mohali project
 
-This repository contains a PDF document "Using Statistics for Archaeology," which can be downloaded.
-The repository also contains the LaTeX code and bibliography file.
+Students can download the PDF document in the repository called, "Using Statistics for Archaeology". 
+This repository also contains the LaTeX code for the document, as well as a .bib bibliography file.
+
+Paleo-Arch lab, IISER-Mohali
+Supervisor: Dr. Parth R. Chauhan
